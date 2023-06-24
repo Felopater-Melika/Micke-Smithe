@@ -1,2 +1,2 @@
 # Micke-Smithe
-My first right tutorial xD
+My first right tutorial
